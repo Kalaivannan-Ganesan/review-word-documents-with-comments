@@ -1,14 +1,14 @@
 # Review Word Documents with Comments
 
-A quick-start project that shows how to review word documents with comments in the Syncfusion&reg; React Word Processor component. This project contains code to insert and delete comments, navigate to the next and previous comments, and protect the document in comments-only mode.
+A quick-start project that shows how to review word documents with comments in the Syncfusion&reg; [React DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). This project contains code to insert and delete comments, navigate to the next and previous comments, and protect the document in comments-only mode.
 
-Refer to the following comments documentation for the Syncfusion&reg; React Word Processor component: 
+Refer to the following comments documentation for the Syncfusion&reg; React DOCX Editor component: 
 https://ej2.syncfusion.com/react/documentation/document-editor/comments/
 
-Check out this online example of comments in the Syncfusion&reg; React Word Processor component: 
+Check out this online example of comments in the Syncfusion&reg; React DOCX Editor component: 
 https://ej2.syncfusion.com/react/demos/#/bootstrap5/document-editor/comments
 
-Watch the following video to get started with the React Word Processor component:
+Watch the following video to get started with the React DOCX Editor component:
 https://www.youtube.com/watch?v=tgJgvbnxdBA
 
 ## Project prerequisites
